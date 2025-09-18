@@ -28,6 +28,7 @@ public class positive {
             System.out.println("Last element is greater than first element");
         else
             System.out.println("Both elements are equal");
+            sc.close();
     }
 }
 
